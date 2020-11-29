@@ -19,4 +19,4 @@ def get_databasename(url):
                 flag=False           
             
     return a
-print("Database name is",get_databasename(""))
+print("\nDatabase name is:",get_databasename(""))
